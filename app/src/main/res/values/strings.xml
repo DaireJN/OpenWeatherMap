@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">OpenWeather</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="today">Todays Forecast</string>
+    <string name="_5_day">5 Day Forecast</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="weather_icon">weather icon</string>
+    <string name="no_connection">No connection</string>
+    <string name="belfast">Belfast</string>
+    <string name="current_temp">%1$s \u00B0</string>
+    <string name="min_temp">Min %1$s \u00B0</string>
+    <string name="max_temp">Max %1$s \u00B0</string>
+    <string name="sunrise">Sunrise %1$s </string>
+    <string name="sunset">Sunset %1$s </string>
+    <string name="wind_speed">Wind Speed %1$s </string>
+    <string name="wind_direction">Wind Direction %1$s </string>
+</resources>
